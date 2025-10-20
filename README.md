@@ -11,9 +11,11 @@
 
 ## Структура репозитория
 
-[docs](docs) /  [contribution.md](docs/contribution.md)          
-[content](content) /      [Анкета для заказчика ТБУ-Коалиция.docx](content/Анкета%20для%20заказчика%20ТБУ-Коалиция.docx)            | [Протокол встречи.docx](content/Протокол%20встречи.docx)        
-README.md                         
+[docs](docs) /  [contribution.md](docs/contribution.md)   
+       
+[content](content) /      [Анкета для заказчика ТБУ-Коалиция.docx](content/Анкета%20для%20заказчика%20ТБУ-Коалиция.docx)            | [Протокол встречи.docx](content/Протокол%20встречи.docx)        | [План_коммуникаций_WiseDubs_Команды_полный.docx](content/План_коммуникаций_WiseDubs_Команды_полный.docx)
+
+[README.md](README.md)                         
 
 
 ### Ветвление
